@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#667eea</color>
+    <color name="primary_variant">#5563d1</color>
+    <color name="primary_light">#e8eaf6</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary">#4caf50</color>
+    <color name="secondary_variant">#388e3c</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <!-- Background Colors -->
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#F44336</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+
+    <!-- Status Colors -->
+    <color name="status_completed">#4caf50</color>
+    <color name="status_due_soon">#ff9800</color>
+    <color name="status_upcoming">#2196f3</color>
+    <color name="status_overdue">#f44336</color>
+</resources>
